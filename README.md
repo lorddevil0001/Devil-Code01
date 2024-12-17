@@ -1,2 +1,2 @@
 # Devil-Code01
-This IS My First Git Repository
+This Is My First Git Repository
